@@ -1,0 +1,1 @@
+# section-managerto manage section degrees for each student
